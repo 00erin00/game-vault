@@ -1,0 +1,35 @@
+<div class="container-fluid">
+        <div class="back"></div>
+            <a href="xbox.html" class="previous" style="
+              text-decoration: none;
+              display: inline-block;
+              padding: 8px 16px;
+              color: white;
+              border-radius: 25%;
+                        ">&laquo; Previous</a>
+            <div class="container">
+              <div class="row">
+                <div class="col-sm-2">
+                    <img src="assets/f124.jpg" style="width: 10rem;">
+                </div>
+                <div class="col-sm">
+                  <div class="details">
+                    <h3 class="title" style="color: white;">F1 24</h3>
+                    <h4 style="color: grey;">Electronic Arts
+                      •
+                      Racing & flying
+                      •
+                      Family & kids
+                      •
+                      Simulation
+                      •
+                      Sports
+                      •</h4>
+                    <a href="#" class="btn btn-success">Buy</a>
+                </div>
+                </div>
+              </div>
+          .
+        </div>
+      </div>
+    </div>
